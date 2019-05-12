@@ -1,0 +1,24 @@
+#!/usr/bin/python3
+#列表有关的函数
+alist=[1,2,3]
+alist.append(4)
+alist.append([5,6])
+print(alist)
+#还用序列扩展列表，向列表末尾追加元素
+alist.extend([4,5,6])
+print(alist)
+#insert(index,obj)
+alist.insert(0,0)
+print(alist)
+alist.insert(-1,8)#插入内容后，原位置的元素向后移
+print(alist)
+alist = [3,534,3,234,565]
+#print(alist.sort());
+print(alist)
+print(alist.reverse())
+print(alist)
+print(alist.index(3))
+print(alist.pop())#删除列表的最后一个元素，并且返回值
+print(alist)
+print(alist.pop(1))
+print(alist)
