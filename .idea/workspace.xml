@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4be5b1f-9845-4086-a633-1985d54962ba" name="Default Changelist" comment="" />
+    <list default="true" id="c4be5b1f-9845-4086-a633-1985d54962ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,20 +11,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pyashua$test_filter.coverage" NAME="test_filter Coverage Results" MODIFIED="1557863478801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pyashua$test_orm.coverage" NAME="test_orm Coverage Results" MODIFIED="1558123816626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pyashua$sign_up_register_simulation.coverage" NAME="sign_up_register_simulation Coverage Results" MODIFIED="1557357216191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pyashua$test_yanghuitriangles.coverage" NAME="test_yanghuitriangles Coverage Results" MODIFIED="1557697283783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pyashua$test_iterator.coverage" NAME="test_iterator Coverage Results" MODIFIED="1557700830102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pyashua$test_map_reduce.coverage" NAME="test_map_reduce Coverage Results" MODIFIED="1557705883461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pyashua$List_Comprehensions.coverage" NAME="List_Comprehensions Coverage Results" MODIFIED="1557693233111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pyashua$testseq.coverage" NAME="testseq Coverage Results" MODIFIED="1557685541195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pyashua$testseq.coverage" NAME="testseq Coverage Results" MODIFIED="1557863246822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pyashua$fanhui_funtion.coverage" NAME="fanhui_funtion Coverage Results" MODIFIED="1557874044343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pyashua$list_zhan.coverage" NAME="list_zhan Coverage Results" MODIFIED="1557181440386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pyashua$test_decorator.coverage" NAME="test_decorator Coverage Results" MODIFIED="1558025796385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pyashua$Python_Console.coverage" NAME="Python Console Coverage Results" MODIFIED="1557091119685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/pyashua$test_urllib.coverage" NAME="test_urllib Coverage Results" MODIFIED="1557159632819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pyashua$create_file.coverage" NAME="create_file Coverage Results" MODIFIED="1557085025972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pyashua$diguihanshu.coverage" NAME="diguihanshu Coverage Results" MODIFIED="1557677592212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pyashua$test_zidian.coverage" NAME="test_zidian Coverage Results" MODIFIED="1557352267001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pyashua$arguments.coverage" NAME="arguments Coverage Results" MODIFIED="1557680151330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pyashua$test_sorted.coverage" NAME="test_sorted Coverage Results" MODIFIED="1557865379071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pyashua$property.coverage" NAME="property Coverage Results" MODIFIED="1558026615142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pyashua$test_list.coverage" NAME="test_list Coverage Results" MODIFIED="1557161092026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pyashua$test_lambda.coverage" NAME="test_lambda Coverage Results" MODIFIED="1557941716183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pyashua$test_slice.coverage" NAME="test_slice Coverage Results" MODIFIED="1557684133775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pyashua$test_iteration.coverage" NAME="test_iteration Coverage Results" MODIFIED="1557688945886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pyashua$test_string.coverage" NAME="test_string Coverage Results" MODIFIED="1557702696943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -54,24 +63,24 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="jojo" value="1" />
-          <entry key="py" value="25" />
+          <entry key="py" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="25" />
+          <entry key="Python" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="187" />
-          <entry key="py" value="7197" />
+          <entry key="Python Console" value="343" />
+          <entry key="py" value="10200" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="7384" />
+          <entry key="Python" value="10543" />
         </counts>
       </usages-collector>
     </session>
@@ -82,74 +91,83 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/create_file.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="526">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testseq.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="22" column="49" lean-forward="true" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+            <state relative-caret-position="296">
+              <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_string.py">
+        <entry file="file://$PROJECT_DIR$/test_sorted.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arguments.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="769">
-              <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+            <state>
+              <caret selection-end-line="1" selection-end-column="23" />
               <folding>
-                <marker date="1557680151326" expanded="true" signature="499:712" ph="..." />
+                <marker date="1557865379066" expanded="true" signature="159:164" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_iterator.py">
+        <entry file="file://$PROJECT_DIR$/fanhui_funtion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+            <state relative-caret-position="23">
+              <caret line="1" column="14" lean-forward="true" selection-end-line="1" selection-end-column="23" />
               <folding>
-                <element signature="e#19#51#0" expanded="true" />
+                <marker date="1557874044337" expanded="true" signature="180:209" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_zidian.py">
+        <entry file="file://$PROJECT_DIR$/test_lambda.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="736">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="161">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_decorator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+              <folding>
+                <element signature="e#67#83#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/property.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+              <folding>
+                <marker date="1558026615138" expanded="true" signature="64:69" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test_map_reduce.py">
+        <entry file="file://$PROJECT_DIR$/test_orm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="58" column="51" selection-start-line="58" selection-start-column="51" selection-end-line="58" selection-end-column="51" />
+            <state relative-caret-position="23">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
-                <marker date="1557705883457" expanded="true" signature="451:491" ph="..." />
-                <marker date="1557705883457" expanded="true" signature="747:752" ph="..." />
-                <marker date="1557705883457" expanded="true" signature="845:877" ph="..." />
+                <marker date="1558123816621" expanded="true" signature="63:68" ph="..." />
+                <marker date="1558123816621" expanded="true" signature="283:288" ph="..." />
+                <marker date="1558123816621" expanded="true" signature="402:407" ph="..." />
+                <marker date="1558123816621" expanded="true" signature="517:522" ph="..." />
+                <marker date="1558123816621" expanded="true" signature="1147:1152" ph="..." />
+                <marker date="1558123816621" expanded="true" signature="1857:1862" ph="..." />
               </folding>
             </state>
           </provider>
@@ -158,21 +176,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/diguihanshu.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="207">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_slice.py">
+        <entry file="file://$PROJECT_DIR$/test_filter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-75">
-              <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
-              <folding>
-                <marker date="1557684133771" expanded="true" signature="281:286" ph="..." />
-                <marker date="1557684133771" expanded="true" signature="281:608" ph="..." />
-              </folding>
+            <state relative-caret-position="276">
+              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -189,6 +203,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>sort</find>
+      <find>object</find>
+      <find>class object</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -198,7 +214,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/create_file.py" />
-        <option value="$PROJECT_DIR$/testseq.py" />
         <option value="$PROJECT_DIR$/test_urllib.py" />
         <option value="$PROJECT_DIR$/test_string.py" />
         <option value="$PROJECT_DIR$/test_list.py" />
@@ -213,6 +228,14 @@
         <option value="$PROJECT_DIR$/test_yanghuitriangles.py" />
         <option value="$PROJECT_DIR$/test_iterator.py" />
         <option value="$PROJECT_DIR$/test_map_reduce.py" />
+        <option value="$PROJECT_DIR$/test_filter.py" />
+        <option value="$PROJECT_DIR$/testseq.py" />
+        <option value="$PROJECT_DIR$/test_sorted.py" />
+        <option value="$PROJECT_DIR$/fanhui_funtion.py" />
+        <option value="$PROJECT_DIR$/test_lambda.py" />
+        <option value="$PROJECT_DIR$/test_decorator.py" />
+        <option value="$PROJECT_DIR$/property.py" />
+        <option value="$PROJECT_DIR$/test_orm.py" />
       </list>
     </option>
   </component>
@@ -223,9 +246,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="651" />
-    <option name="width" value="840" />
-    <option name="height" value="1020" />
+    <option name="x" value="491" />
+    <option name="width" value="1258" />
+    <option name="height" value="1019" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -267,8 +290,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test_map_reduce">
-    <configuration name="List_Comprehensions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test_orm">
+    <configuration name="fanhui_funtion" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyashua" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -281,7 +304,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List_Comprehensions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fanhui_funtion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,7 +313,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_iterator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="property" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyashua" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,7 +326,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_iterator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/property.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -312,7 +335,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_map_reduce" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test_decorator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyashua" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -325,7 +348,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_map_reduce.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_decorator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -334,7 +357,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test_lambda" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyashua" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -347,7 +370,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_lambda.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -356,7 +379,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_yanghuitriangles" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test_orm" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyashua" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -369,7 +392,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_yanghuitriangles.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_orm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -379,19 +402,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.List_Comprehensions" />
-      <item itemvalue="Python.test_yanghuitriangles" />
-      <item itemvalue="Python.test_iterator" />
-      <item itemvalue="Python.test_string" />
-      <item itemvalue="Python.test_map_reduce" />
+      <item itemvalue="Python.fanhui_funtion" />
+      <item itemvalue="Python.test_lambda" />
+      <item itemvalue="Python.test_decorator" />
+      <item itemvalue="Python.property" />
+      <item itemvalue="Python.test_orm" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test_map_reduce" />
-        <item itemvalue="Python.test_string" />
-        <item itemvalue="Python.test_iterator" />
-        <item itemvalue="Python.test_yanghuitriangles" />
-        <item itemvalue="Python.List_Comprehensions" />
+        <item itemvalue="Python.test_orm" />
+        <item itemvalue="Python.property" />
+        <item itemvalue="Python.test_decorator" />
+        <item itemvalue="Python.test_lambda" />
+        <item itemvalue="Python.fanhui_funtion" />
       </list>
     </recent_temporary>
   </component>
@@ -418,15 +441,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="651" y="0" width="840" height="1020" extended-state="0" />
+    <frame x="491" y="0" width="1258" height="1019" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49837664" visible="true" weight="0.23567708" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49837664" visible="true" weight="0.15261383" />
       <window_info id="Structure" order="1" sideWeight="0.5016234" side_tool="true" weight="0.17549261" />
       <window_info id="Favorites" order="2" sideWeight="0.5016234" side_tool="true" weight="0.17549261" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30475086" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3051044" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -436,7 +459,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32908458" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.29779837" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32792583" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32714617" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -478,81 +501,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/jojo" />
-    <entry file="file://$PROJECT_DIR$/list_zhan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
-          <folding>
-            <marker date="1557181438454" expanded="true" signature="161:166" ph="..." />
-            <marker date="1557181438454" expanded="true" signature="279:284" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sign_up_register_simulation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-          <folding>
-            <marker date="1557357216187" expanded="true" signature="300:305" ph="..." />
-            <marker date="1557357216187" expanded="true" signature="324:325" ph="..." />
-            <marker date="1557357216187" expanded="true" signature="324:718" ph="..." />
-            <marker date="1557357216187" expanded="true" signature="739:740" ph="..." />
-            <marker date="1557357216187" expanded="true" signature="739:1059" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_urllib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_slice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-75">
-          <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
-          <folding>
-            <marker date="1557684133771" expanded="true" signature="281:286" ph="..." />
-            <marker date="1557684133771" expanded="true" signature="281:608" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/diguihanshu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/create_file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/List_Comprehensions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_iteration.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-          <folding>
-            <marker date="1557688945882" expanded="true" signature="82:87" ph="..." />
-            <marker date="1557688945882" expanded="true" signature="82:103" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_list.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
@@ -570,44 +518,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_iterator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-          <folding>
-            <element signature="e#19#51#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arguments.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="769">
-          <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
-          <folding>
-            <marker date="1557680151326" expanded="true" signature="499:712" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_zidian.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="736">
           <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testseq.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="22" column="49" lean-forward="true" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -619,6 +533,191 @@
             <marker date="1557705883457" expanded="true" signature="451:491" ph="..." />
             <marker date="1557705883457" expanded="true" signature="747:752" ph="..." />
             <marker date="1557705883457" expanded="true" signature="845:877" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arguments.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="838">
+          <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+          <folding>
+            <marker date="1557680151326" expanded="true" signature="499:712" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_urllib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_iterator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="e#19#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_slice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding>
+            <marker date="1557684133771" expanded="true" signature="281:286" ph="..." />
+            <marker date="1557684133771" expanded="true" signature="281:608" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/List_Comprehensions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list_zhan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding>
+            <marker date="1557181438454" expanded="true" signature="161:166" ph="..." />
+            <marker date="1557181438454" expanded="true" signature="279:284" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sign_up_register_simulation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2">
+          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding>
+            <marker date="1557357216187" expanded="true" signature="300:305" ph="..." />
+            <marker date="1557357216187" expanded="true" signature="324:325" ph="..." />
+            <marker date="1557357216187" expanded="true" signature="324:718" ph="..." />
+            <marker date="1557357216187" expanded="true" signature="739:740" ph="..." />
+            <marker date="1557357216187" expanded="true" signature="739:1059" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_iteration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <marker date="1557688945882" expanded="true" signature="82:87" ph="..." />
+            <marker date="1557688945882" expanded="true" signature="82:103" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-233">
+          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testseq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_sorted.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="23" />
+          <folding>
+            <marker date="1557865379066" expanded="true" signature="159:164" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_lambda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diguihanshu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_decorator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+          <folding>
+            <element signature="e#67#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/property.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding>
+            <marker date="1558026615138" expanded="true" signature="64:69" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fanhui_funtion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="14" lean-forward="true" selection-end-line="1" selection-end-column="23" />
+          <folding>
+            <marker date="1557874044337" expanded="true" signature="180:209" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/272280543/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-592">
+          <caret line="731" column="12" selection-start-line="731" selection-end-line="731" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_orm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <marker date="1558123816621" expanded="true" signature="63:68" ph="..." />
+            <marker date="1558123816621" expanded="true" signature="283:288" ph="..." />
+            <marker date="1558123816621" expanded="true" signature="402:407" ph="..." />
+            <marker date="1558123816621" expanded="true" signature="517:522" ph="..." />
+            <marker date="1558123816621" expanded="true" signature="1147:1152" ph="..." />
+            <marker date="1558123816621" expanded="true" signature="1857:1862" ph="..." />
           </folding>
         </state>
       </provider>
