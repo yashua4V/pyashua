@@ -12,10 +12,7 @@ def normalize(name):
     return name
 
 
-# 测试:
-L1 = ['adam', 'LISA', 'barT']
-L2 = list(map(normalize, L1))
-print(L2)
+
 
 '''
 Python提供的sum()函数可以接受一个list并求和，
@@ -28,11 +25,7 @@ def prod(L):
     return reduce(crax,L)
 
 
-print('3 * 5 * 7 * 9 =', prod([3, 5, 7, 9]))
-if prod([3, 5, 7, 9]) == 945:
-    print('测试成功!')
-else:
-    print('测试失败!')
+
 
 '''
 利用map和reduce编写一个str2float函数，
@@ -51,9 +44,32 @@ def str2float(s):
         return x/10+y
     return reduce(upnumb,map(char2num,L[0]))+reduce(lownumb,map(char2num,reversed(L[1])))/10
 
-print('str2float(\'123.456\') =', str2float('123.456'))
-if abs(str2float('123.456') - 123.456) < 0.00001:
-    print('测试成功!')
-else:
-    print('测试失败!')
-print(str2float('234534.56235234')==234534.56235234)
+
+DIGITS = {'0': 0, '1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9}
+
+def char2num(s):
+    return DIGITS[s]
+
+def str2int(s):
+    return reduce(lambda x, y: x * 10 + y, map(char2num, s))
+
+
+if __name__ == '__main__':
+
+    print('str2float(\'123.456\') =', str2float('123.456'))
+    if abs(str2float('123.456') - 123.456) < 0.00001:
+        print('测试成功!')
+    else:
+        print('测试失败!')
+    print(str2float('234534.56235234')==234534.56235234)
+
+    # 测试:
+    L1 = ['adam', 'LISA', 'barT']
+    L2 = list(map(normalize, L1))
+    print(L2)
+
+    print('3 * 5 * 7 * 9 =', prod([3, 5, 7, 9]))
+    if prod([3, 5, 7, 9]) == 945:
+        print('测试成功!')
+    else:
+        print('测试失败!')
