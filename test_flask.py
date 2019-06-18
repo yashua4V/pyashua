@@ -11,7 +11,7 @@ from flask import request
 
 app = Flask(__name__)
 
-@app.route('/',method=['GET','POST'])
+@app.route('/',methods=['GET','POST'])
 def home():
     return '<h1>Home</h1>'
 
