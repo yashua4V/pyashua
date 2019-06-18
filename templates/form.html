@@ -5,7 +5,7 @@
     <title>Please Sign In</title>
 </head>
 <body>
-  {% if {{message}} %}
+  {% if message %}
   <p style="color:red">{{ message }}</p>
   {% endif %}
   <form action="/signin" method="post">
