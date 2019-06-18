@@ -23,5 +23,5 @@ def signin():
         return render_template('signin-ok.html',username=username)
     return render_template('form.html',massage = 'Bad username or password',username=username)
 
-if __name__='__main__':
+if __name__=='__main__':
     app.run(host='0.0.0.0')
