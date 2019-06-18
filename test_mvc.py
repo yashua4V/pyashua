@@ -19,7 +19,7 @@ def signin_form():
 def signin():
     username = request.form['username']
     password = request.form['password']
-    if username=='admin' and password = 'password':
+    if username=='admin' and password == 'password':
         return render_template('signin-ok.html',username=username)
     return render_template('form.html',massage = 'Bad username or password',username=username)
 
